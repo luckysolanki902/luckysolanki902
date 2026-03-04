@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://luckysolanki.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=1000&height=80&lines=I+build+products,+People+actually+use.;Engineering+systems+that+scale.;Using+AI+as+a+new+programming+language+to+move+faster.;Designing+scalable+systems+still+takes+thinking." />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=720&height=72&lines=I+build+products+people+actually+use.;AI-native+engineer.;Building+with+AI,+not+just+about+it.;Systems+that+think.+Products+that+ship." />
 </a>
 
 <br/>
@@ -14,10 +14,12 @@
 
 <a href="https://luckysolanki.com">
   <img src="https://img.shields.io/badge/luckysolanki.com-C9B99A?style=flat-square" alt="Portfolio" />
-</a>&nbsp;
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/luckysolanki902">
   <img src="https://img.shields.io/badge/LinkedIn-C9B99A?style=flat-square" alt="LinkedIn" />
-</a>&nbsp;
+</a>
+&nbsp;
 <a href="mailto:luckysolanki902@gmail.com">
   <img src="https://img.shields.io/badge/luckysolanki902@gmail.com-C9B99A?style=flat-square" alt="Email" />
 </a>
