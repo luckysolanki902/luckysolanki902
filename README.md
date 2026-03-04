@@ -2,100 +2,25 @@
 
 <br/>
 
-<!-- Animated name/title -->
 <a href="https://luckysolanki.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=42&duration=3000&pause=2000&color=111111&center=true&vCenter=true&width=600&height=70&lines=I+build+products;people+actually+use." alt="Lucky Solanki" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=720&height=72&lines=I+build+products,+people+actually+use.;Engineering+systems+that+scale.;Leveraging+AI.+Owning+the+systems.;Adaptive+engineer.+Always+learning.;Entrepreneur.+Engineer.+Builder." />
 </a>
 
 <br/>
 
-<p style="color:#888; font-size:15px; letter-spacing:0.05em;">
-  Software Engineer at <strong>Blitzit</strong> &nbsp;·&nbsp; Founder of <strong>Spyll</strong>
-</p>
+<sub>Software Engineer at <b>Blitzit</b> &nbsp;·&nbsp; Entrepreneur behind <b>Spyll</b>, <b>Maddy Custom</b> &amp; <b>Dailicle</b></sub>
+
+<br/><br/>
+
+<a href="https://luckysolanki.com">
+  <img src="https://img.shields.io/badge/luckysolanki.com-C9B99A?style=flat-square" alt="Portfolio" />
+</a>
+<!-- &nbsp; -->
+<a href="https://linkedin.com/in/luckysolanki902">
+  <img src="https://img.shields.io/badge/LinkedIn-C9B99A?style=flat-square" alt="LinkedIn" />
+</a>
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/luckysolanki.com-%23111111?style=for-the-badge&logoColor=white)](https://luckysolanki.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luckysolanki902)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-%23111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckysolanki902@gmail.com)
-
-</div>
-
----
-
-<br/>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Spyll](https://spyll.in) &nbsp; `Founder`
-Anonymous social platform for college students across **1,300+ colleges** in India. Real-time 1:1 chat pair matching, voice calls, encrypted confessions.
-
-`Next.js` `Socket.IO` `WebRTC` `Redis` `Capacitor`
-
-</td>
-<td width="50%" valign="top">
-
-### [MaddyCustom](https://maddycustom.vercel.app) &nbsp; `Co-Founder`
-E-commerce for custom vehicle wraps. Grew to **100K+ monthly users** and ₹60L annual revenue. Dual payment gateways, Shiprocket, Sankey funnel analytics.
-
-`Next.js 15` `MongoDB` `Razorpay` `Meta API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Blitzit](https://blitzit.app) &nbsp; `Software Engineer`
-MCP server with OAuth 2.1 (PKCE), JSON-RPC 2.0 over Streamable HTTP, **13 AI-callable tools**. Deep sync with Asana, ClickUp, Google Calendar.
-
-`Fastify` `BullMQ` `MCP SDK` `OAuth 2.1` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### [Avana](https://web.avanaapp.ai) &nbsp; `Freelance · Solo`
-AI investment research platform for Bali real estate. Multi-agent chat with specialist handoffs, realtime voice via WebRTC, Xendit payments.
-
-`Next.js` `OpenAI Agents` `WebRTC` `Xendit`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Stack
-
-<div align="left">
-
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=8CC84B)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFD43B)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=FF4438)
-![Fastify](https://img.shields.io/badge/Fastify-111111?style=flat-square&logo=fastify&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688)
-![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
-![WebRTC](https://img.shields.io/badge/WebRTC-111111?style=flat-square&logo=webrtc&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111111?style=flat-square&logo=socket.io&logoColor=white)
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=luckysolanki902&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=fafafa&hide=contribs&rank_icon=github&card_width=480" alt="GitHub Stats" />
 
 </div>
 
@@ -105,12 +30,61 @@ AI investment research platform for Bali real estate. Multi-agent chat with spec
 
 <br/>
 
-<div align="center">
-
-<p>Everything else is at</p>
-
-### **[luckysolanki.com →](https://luckysolanki.com)**
+### Shipped
 
 <br/>
 
-</div>
+**[Spyll](https://spyll.in)** &nbsp;`Founder`  
+Anonymous social across 1,300+ colleges in India. Real-time chat, voice calls, encrypted confessions.  
+<sub>Next.js · Socket.IO · WebRTC · Redis · Capacitor</sub>
+
+<br/>
+
+**[MaddyCustom](https://maddycustom.vercel.app)** &nbsp;`Co-Founder`  
+E-commerce for vehicle customization. 100K+ monthly users, ₹60L annual revenue.  
+<sub>Next.js 15 · MongoDB · Razorpay · Meta API</sub>
+
+<br/>
+
+**[Blitzit](https://blitzit.app)** &nbsp;`Software Engineer`  
+MCP server with OAuth 2.1, 13 AI-callable tools. Deep sync across Asana, ClickUp, Calendar.  
+<sub>Fastify · BullMQ · MCP SDK · OAuth 2.1 · Firebase</sub>
+
+<br/>
+
+**[Avana](https://web.avanaapp.ai)** &nbsp;`Freelance`  
+AI investment research for Bali real estate. Multi-agent chat with realtime voice.  
+<sub>Next.js · OpenAI Agents · WebRTC · Xendit</sub>
+
+<br/>
+
+**[Dailicle](https://dailicle.com)** &nbsp;`Solo`  
+Daily essay platform. Automated pipeline — research, writing, TTS, and email delivery at 9 AM IST.  
+<sub>Next.js · Python · FastAPI · OpenAI · AWS S3</sub>
+
+<br/>
+
+---
+
+<br/>
+
+### What I build with
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-C9B99A?style=flat-square&logo=nextdotjs&logoColor=1C1917)
+![React](https://img.shields.io/badge/React-C9B99A?style=flat-square&logo=react&logoColor=1C1917)
+![Node.js](https://img.shields.io/badge/Node.js-C9B99A?style=flat-square&logo=nodedotjs&logoColor=1C1917)
+![Python](https://img.shields.io/badge/Python-C9B99A?style=flat-square&logo=python&logoColor=1C1917)
+![MongoDB](https://img.shields.io/badge/MongoDB-C9B99A?style=flat-square&logo=mongodb&logoColor=1C1917)
+![Redis](https://img.shields.io/badge/Redis-C9B99A?style=flat-square&logo=redis&logoColor=1C1917)
+![Fastify](https://img.shields.io/badge/Fastify-C9B99A?style=flat-square&logo=fastify&logoColor=1C1917)
+![FastAPI](https://img.shields.io/badge/FastAPI-C9B99A?style=flat-square&logo=fastapi&logoColor=1C1917)
+![AWS](https://img.shields.io/badge/AWS-C9B99A?style=flat-square&logo=amazonwebservices&logoColor=1C1917)
+![Docker](https://img.shields.io/badge/Docker-C9B99A?style=flat-square&logo=docker&logoColor=1C1917)
+![WebRTC](https://img.shields.io/badge/WebRTC-C9B99A?style=flat-square&logo=webrtc&logoColor=1C1917)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-C9B99A?style=flat-square&logo=socketdotio&logoColor=1C1917)
+
+<br/>
+
+<br/>
