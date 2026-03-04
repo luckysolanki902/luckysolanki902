@@ -52,7 +52,7 @@ MCP server with OAuth 2.1, 13 AI-callable tools. Deep sync across Asana, ClickUp
 
 <br/>
 
-**[Avana](https://web.avanaapp.ai)** &nbsp;`Freelance`  
+**[Avana](https://avanaapp.ai/)** &nbsp;`Freelance`  
 AI investment research for Bali real estate. Multi-agent chat with realtime voice.  
 <sub>Next.js · OpenAI Agents · WebRTC · Xendit</sub>
 
