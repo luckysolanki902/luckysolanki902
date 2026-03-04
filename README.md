@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://luckysolanki.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=680&height=72&lines=building+products+people+use;engineering+systems+that+scale;using+ai+as+leverage,+always" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=1000&height=80&lines=I+build+products,+People+actually+use.;Engineering+systems+that+scale.;Using+AI+as+a+new+programming+language+to+move+faster.;Designing+scalable+systems+still+takes+thinking." />
 </a>
 
 <br/>
