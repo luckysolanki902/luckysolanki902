@@ -14,10 +14,12 @@
 
 <a href="https://luckysolanki.com">
   <img src="https://img.shields.io/badge/luckysolanki.com-C9B99A?style=flat-square" alt="Portfolio" />
-</a>
-<!-- &nbsp; -->
+</a>&nbsp;
 <a href="https://linkedin.com/in/luckysolanki902">
   <img src="https://img.shields.io/badge/LinkedIn-C9B99A?style=flat-square" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:luckysolanki902@gmail.com">
+  <img src="https://img.shields.io/badge/luckysolanki902@gmail.com-C9B99A?style=flat-square" alt="Email" />
 </a>
 
 <br/>
