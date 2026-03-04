@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://luckysolanki.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=720&height=72&lines=I+build+products+people+actually+use.;Shipping+software+that+matters.;Less+noise.+More+craft.;Engineering+with+intent.;Building+quietly.+Shipping+consistently." />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=720&height=72&lines=I+build+products+people+actually+use.;AI-native+engineer.;Building+with+AI,+not+just+about+it.;Systems+that+think.+Products+that+ship." />
 </a>
 
 <br/>
