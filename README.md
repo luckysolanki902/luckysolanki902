@@ -91,4 +91,26 @@ Daily essay platform. Automated pipeline — research, writing, TTS, and email d
 
 <br/>
 
+<div align="center">
+  <a href="https://github.com/luckysolanki902">
+    <img src="https://github-readme-stats.vercel.app/api?username=luckysolanki902&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B99A&icon_color=C9B99A&text_color=C9D1D9&ring_color=C9B99A" height="170" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/luckysolanki902">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckysolanki902&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9B99A&text_color=C9D1D9" height="170" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luckysolanki902&theme=transparent&hide_border=true&ring=C9B99A&fire=C9B99A&currStreakLabel=C9B99A&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luckysolanki902&style=flat-square&color=C9B99A&label=Profile+Views" alt="Profile Views" />
+</div>
+
 <br/>
