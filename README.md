@@ -91,15 +91,7 @@ Daily essay platform. Automated pipeline — research, writing, TTS, and email d
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/luckysolanki902">
-    <img src="https://github-readme-stats.vercel.app/api?username=luckysolanki902&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B99A&icon_color=C9B99A&text_color=C9D1D9&ring_color=C9B99A" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/luckysolanki902">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckysolanki902&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9B99A&text_color=C9D1D9" height="170" alt="Top Languages" />
-  </a>
-</div>
+
 
 <br/>
 
