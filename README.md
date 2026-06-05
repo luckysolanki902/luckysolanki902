@@ -2,10 +2,6 @@
 
 <br/>
 
-<a href="https://luckysolanki.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=36&duration=3000&pause=2500&color=C9B99A&center=true&vCenter=true&width=1000&height=90&lines=I+build+products,+People+actually+use.;Engineering+systems+that+scale.;Using+AI+as+a+new+programming+language+to+move+faster.;Designing+scalable+systems+still+takes+thinking." />
-</a>
-
 <br/>
 
 <sub>Software Engineer at <b>Blitzit</b> &nbsp;·&nbsp; Entrepreneur behind <b>Spyll</b>, <b>Maddy Custom</b> &amp; <b>Dailicle</b></sub>
