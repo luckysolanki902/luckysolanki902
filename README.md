@@ -4,7 +4,7 @@
 
 <br/>
 
-<sub>Software Engineer at <b>Blitzit</b> &nbsp;·&nbsp; Entrepreneur behind <b>Spyll</b>, <b>Maddy Custom</b> &amp; <b>Dailicle</b></sub>
+<sub>Software Engineer at <b>Blitzit</b> &nbsp;·&nbsp; Entrepreneur behind <b>Spyll</b>, &amp; <b>Maddy Custom</b></sub>
 
 <br/><br/>
 
