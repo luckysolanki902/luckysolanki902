@@ -59,8 +59,7 @@ AI investment research for Bali real estate. Multi-agent chat with realtime voic
 <br/>
 
 **[Dailicle](https://dailicle.com)** &nbsp;`Solo`  
-Daily essay platform. Automated pipeline — research, writing, TTS, and email delivery at 9 AM IST.  
-<sub>Next.js · Python · FastAPI · OpenAI · AWS S3</sub>
+A deeply research essay every monday, based on psychology, philosophy, society, money and relationship.
 
 <br/>
 
